@@ -38,6 +38,13 @@ Contracts let you clearly – even beautifully – express how your code behaves
 We have a forked version of `contracts` with nice diff output for KeywordArgs type (Hash).
 
 
+## Values - Values is a tiny library for creating value objects in ruby.
+
+- <a href="https://github.com/tcrayford/Values" target="_blank">Values</a>
+
+1. Constructors require expected arguments
+1. Instances are immutable
+
 
 ## Overview on Travis.CI
 
