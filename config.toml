@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
   # General information
   author = "Droidlabs"
-  description = "A material design theme for documentations."
+  description = "Information how to apply DDD concepts to Ruby applications"
   copyright = "Released under the MIT license"
 
   # Repository
@@ -46,7 +46,7 @@ googleAnalytics = ""
 
 
 [[menu.main]]
-  name   = "Material"
+  name   = "Overview"
   url    = "/"
   weight = 0
 
