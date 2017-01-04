@@ -14,7 +14,7 @@ googleAnalytics = ""
   copyright = "Released under the MIT license"
 
   # Repository
-  provider = "GitHub"
+  # provider = "GitHub"
   repo_url = "https://github.com/ddd-ruby/ddd-ruby.github.io"
 
   version = "1.0.0"
