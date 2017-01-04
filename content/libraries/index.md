@@ -28,3 +28,12 @@ It allows you to create your dependencies on demand, supports lazy-loading of Ru
 - <a href="https://ddd-ruby.github.io/hcast/" target="_blank">Hcast</a>
 
 In the DDD context it helps to convert the user input to a properly casted Ruby object / hash.
+
+
+## Contracts - Contracts for Ruby
+
+- <a href="https://ddd-ruby.github.io/contracts.ruby/" target="_blank">Contracts</a>
+
+Contracts let you clearly – even beautifully – express how your code behaves, and free you from writing tons of boilerplate, defensive code.
+
+We have a forked version of contract with nice diff output for KeywordArgs type (Hash).
