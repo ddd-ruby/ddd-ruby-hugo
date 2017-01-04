@@ -6,3 +6,4 @@ description: "Additional Information"
 
 
 - [Domain-Driven Design for the Database Driven Mind - 2015](https://www.youtube.com/watch?v=CjNBnkMHjh4) + [code](https://github.com/julielerman/DomainDrivenDesignforDatabaseDrivenMind)
+- [Entity Framework Model Partitioning in Domain-Driven Design Bounded Contexts - 2014](https://channel9.msdn.com/Events/TechEd/Europe/2014/DEV-B411)
