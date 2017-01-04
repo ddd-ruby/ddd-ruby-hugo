@@ -12,6 +12,7 @@ At some point of your career you have probably heard about DDD (Domain Driven De
 Well... If you have ever worked on a successful Rails application, you probably experienced firsthand the problems that grow, when you apply MVC / CRUD to more complex requirements. You might start to introduce some extra layers, like `services`, `interactors` and such. While doing this, you have to invent new patterns, that are not quite popular in the Ruby community and there is little guidence, where this path will lead you.
 
 We developers / builders / business-owners want similar things:
+
   - maintainable applications
   - correct software
   - good developer experience
