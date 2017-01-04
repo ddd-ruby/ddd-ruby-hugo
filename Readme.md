@@ -11,11 +11,14 @@ Current setup is implemented after the tutorial here: https://gohugo.io/tutorial
 
 ## Making changes:
 
+Start server with live-updating on http://localhost:1313/
+
+```bash
+make server
+```
 
 Add some content to the `content` folder. For examples looks in `themes/exampleSite/content`.
-
-
-Run `hugo server -w` to preview changes with live-updating.
+Review changes and commit them.
 
 
 ## Deployment
