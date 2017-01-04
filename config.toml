@@ -56,8 +56,8 @@ googleAnalytics = ""
   weight = 10
 
 [[menu.main]]
-  name   = "Adding content"
-  url    = "adding-content/"
+  name   = "Ruby Libraries"
+  url    = "libraries/"
   weight = 20
 
 [[menu.main]]
