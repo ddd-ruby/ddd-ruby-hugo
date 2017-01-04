@@ -1,11 +1,7 @@
 ---
 title: "Getting started"
 date: "2014-03-29"
-description: "This should be a more useful description"
-categories:
-    - "hugo"
-    - "fun"
-    - "test"
+description: "Why should be be interested in DDD?"
 ---
 
-Write about how to start with DDD in Ruby
+Motivate the reader to dive deeper in DDD concepts by gently introducing him to some basic material. Also explain how Ruby and DDD applied together help to maintain agile and flexible applications.
