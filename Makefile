@@ -2,4 +2,4 @@ deploy:
 	./deploy.sh
 
 server:
-	hugo server -w
+	open http://localhost:1313/ && hugo server -w
