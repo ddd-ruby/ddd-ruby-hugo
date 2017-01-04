@@ -39,6 +39,6 @@ We have a forked version of `contracts` with nice diff output for KeywordArgs ty
 
 
 
-### Overview on Travis.CI
+## Overview on Travis.CI
 
 - https://travis-ci.org/ddd-ruby
