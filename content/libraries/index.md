@@ -36,3 +36,9 @@ In the DDD context it helps to convert user input to a properly casted Ruby obje
 Contracts let you clearly – even beautifully – express how your code behaves, and free you from writing tons of boilerplate, defensive code.
 
 We have a forked version of `contracts` with nice diff output for KeywordArgs type (Hash).
+
+
+
+### Overview on Travis.CI
+
+- https://travis-ci.org/ddd-ruby
