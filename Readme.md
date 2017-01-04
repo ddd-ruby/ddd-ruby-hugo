@@ -1,7 +1,10 @@
 # Content for ddd-ruby.github.io
 
 Generated with Hugo (https://gohugo.io/)
-Current setup is implemented after the tutorial here: https://gohugo.io/tutorials/github-pages-blog/
+
+Current setup is implemented after the tutorial here:
+
+- https://gohugo.io/tutorials/github-pages-blog/
 
 
 ## Requirements
@@ -11,7 +14,7 @@ Current setup is implemented after the tutorial here: https://gohugo.io/tutorial
 
 ## Making changes:
 
-Start server with live-updating on http://localhost:1313/
+Start server with live-updating on `http://localhost:1313/`
 
 ```bash
 make server
