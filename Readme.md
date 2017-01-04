@@ -23,7 +23,7 @@ Run `hugo server -w` to preview changes with live-updating.
 This will generate static content and push it to ddd-ruby/ddd-ruby.github.io.
 
 ```bash
-deploy.sh
+make deploy
 ```
 
 ## Acknowledgements
