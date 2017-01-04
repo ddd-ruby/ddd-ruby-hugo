@@ -9,7 +9,7 @@ googleAnalytics = ""
 
 [params]
   # General information
-  author = "Droidlabs"
+  author = "DDD Ruby"
   description = "Information how to apply DDD concepts to Ruby applications"
   copyright = "Released under the MIT license"
 
@@ -41,7 +41,7 @@ googleAnalytics = ""
 
 [social]
   twitter = ""
-  github  = "Droidlabs"
+  github  = "ddd-ruby"
   email   = "hello@droidlabs.com"
 
 
