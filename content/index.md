@@ -5,7 +5,7 @@ type: index
 weight: 0
 ---
 
-## Beautiful, highly adaptable and maintainable Ruby applications
+## Beautiful, highly adaptable and maintainable Ruby applications - only a dream?
 
 At some point of your career you have probably heard about DDD (Domain Driven Design) and dismissed it quickly as overly complex and too `enterprisy`. After all, MVC and CRUD seem so much simpler and why would you go through the trouble of introducing new layers of complexity to your Ruby / Rails application? It just works and is really easy do maintain for many years to come, right?
 
