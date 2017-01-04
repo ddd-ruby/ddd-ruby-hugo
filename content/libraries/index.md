@@ -20,3 +20,13 @@ With RDM you can split up one big Ruby application into multiple lightweight pac
 In the DDD context it helps to convert the user input to a properly casted Ruby object / hash.
 
 
+
+
+## SmartIoC: a declarative dependency Injection library
+
+- <a href="https://ddd-ruby.github.io/smart_ioc/" target="_blank">SmartIoC</a>
+
+SmartIoC is a smart and really simple IoC container for Ruby applications.
+
+It allows you to create your dependencies on demand, supports lazy-loading of Ruby files, also allows different contexts for each dependency, so you get test/lightweight implementations in development / tests enviroments. It works great in combination with `Rdm`.
+
