@@ -36,4 +36,4 @@ In the DDD context it helps to convert the user input to a properly casted Ruby 
 
 Contracts let you clearly – even beautifully – express how your code behaves, and free you from writing tons of boilerplate, defensive code.
 
-We have a forked version of contract with nice diff output for KeywordArgs type (Hash).
+We have a forked version of `contracts` with nice diff output for KeywordArgs type (Hash).
