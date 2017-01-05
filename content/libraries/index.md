@@ -22,9 +22,9 @@ It allows you to create your dependencies on demand, supports lazy-loading of Ru
 
 
 
-## Hcast - Hash attributes caster in declarative way
+## HashCast - Hash attributes caster in declarative way
 
-- <a href="https://ddd-ruby.github.io/hcast/" target="_blank">Hcast</a>
+- <a href="https://ddd-ruby.github.io/hashcast/" target="_blank">HashCast</a>
 
 In the DDD context it helps to convert user input to a properly casted Ruby object / hash. It is a lightweight dependency-free Ruby library, with a nice DSL for for specifying the structure of expected input with Ruby types.
 
