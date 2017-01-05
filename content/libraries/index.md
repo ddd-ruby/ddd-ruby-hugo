@@ -51,7 +51,9 @@ We have a forked version of `contracts` with nice diff output for KeywordArgs ty
 - <a href="https://ddd-ruby.github.io/active_serializer/" target="_blank">ActiveSerializer</a>
 A lightweight dependency-free objects serializer with a nice declarative DSL.
 
-In our [Serializers performance benchmark](https://github.com/ddd-ruby/json_serialization_benchmark) it places on a solid middle ground right after plain Ruby presenters while sporting a declarative DSL, providing you the same convenience as `ActiveModel Serializers` do.
+
+
+In our <a href="https://github.com/ddd-ruby/json_serialization_benchmark" target="_blank">Serializers performance benchmark</a> it places on a solid middle ground right after plain Ruby presenters while sporting a declarative DSL, providing you the same convenience as `ActiveModel Serializers` do.
 
 Compared to `ActiveModel::Serializers`-dependencies (activemodel / actionpack), that move with the corresponding Rails version, you get non of the potential headaches of conflicting transient dependencies, that are the horror and bane of many biggish Rails applications.
 
@@ -61,7 +63,7 @@ Compared to `ActiveModel::Serializers`-dependencies (activemodel / actionpack), 
 - <a href="https://ddd-ruby.github.io/api_view/" target="_blank">ApiView</a>
 Another lightweight dependency-free objects serializer. Its `DSL` is less involved, because its main focus is performance.
 
-`ApiView` is currently the fastest known Ruby-based object serializer. If you are generating huge JSON payloads in your Ruby application, it will bring you 5-10X fold performance improvements, as demonstrated in our [Serializers performance benchmark](https://github.com/ddd-ruby/json_serialization_benchmark).
+`ApiView` is currently the fastest known Ruby-based object serializer. If you are generating huge JSON payloads in your Ruby application, it will bring you 5-10X fold performance improvements, as demonstrated in our <a href="https://github.com/ddd-ruby/json_serialization_benchmark" target="_blank">Serializers performance benchmark</a>.
 
 
 ## Values - Values is a tiny library for creating value objects in ruby.
