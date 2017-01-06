@@ -49,9 +49,8 @@ We have a forked version of `contracts` with nice diff output for KeywordArgs ty
 ## Active Serializer - a simple objects to hash serializer.
 
 - <a href="https://ddd-ruby.github.io/active_serializer/" target="_blank">ActiveSerializer</a>
-A lightweight dependency-free objects serializer with a nice declarative DSL.
 
-
+ActiveSerializer is a lightweight dependency-free objects serializer with a nice declarative DSL.
 
 In our <a href="https://github.com/ddd-ruby/json_serialization_benchmark" target="_blank">Serializers performance benchmark</a> it places on a solid middle ground right after plain Ruby presenters while sporting a declarative DSL, providing you the same convenience as `ActiveModel Serializers` do.
 
